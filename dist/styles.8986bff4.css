@@ -1,0 +1,12 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+#map {
+  height: 100vh;
+  background-color: cadetblue;
+}
+
+/*# sourceMappingURL=/styles.8986bff4.css.map */
